@@ -1,17 +1,7 @@
 # nostr-news-feeds
 A list of RSS aggregators for the press sites on Nostr
 
-<ol style="list-style-type: upper-alpha">
-<li>the letter C</li>
-<li>the letter A</li>
-<li>a</li>
-</ol>
-
-- [Washington Post]()
-- [Reuters]()
-- [The Associated Press]()
-- [The New York Times]()
-
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+1. [Washington Post]()
+1. [Reuters]()
+1. [The Associated Press]()
+1. [The New York Times]()
