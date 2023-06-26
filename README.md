@@ -1,7 +1,8 @@
 # nostr-news-feeds
-A list of RSS aggregators for the press sites on Nostr
+A list of RSS aggregators for the press sites that we can follow on Nostr
 
-1. [Washington Post]()
-1. [Reuters]()
-1. [The Associated Press]()
-1. [The New York Times]()
+- [Reuters]()
+- [The Associated Press](https://primal.net/profile/npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc)
+  npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc
+- [The New York Times]()
+- [Washington Post]()
