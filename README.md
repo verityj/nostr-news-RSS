@@ -7,6 +7,8 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 - [Al Jazeera](https://satellite.earth/@npub1s2kdugenpwywdqc3g63h8mhzw9k90he7qp2v2xr3d85jacygqysq880sad) - English `npub1s2kdugenpwywdqc3g63h8mhzw9k90he7qp2v2xr3d85jacygqysq880sad` `AJEnglish_at_press.coop@mostr.pub`
 
+- [Android police](https://satellite.earth/@npub1zytlalgfj9hyftkhyqxduenyndy8mzvrtzeluk2n3e27pnk0z9psmzlhnk) `npub1zytlalgfj9hyftkhyqxduenyndy8mzvrtzeluk2n3e27pnk0z9psmzlhnk`
+
 - [The Associated Press](https://satellite.earth/@npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc) `npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc` `AP_at_press.coop@mostr.pub`
 
 - [The Atlantic](https://satellite.earth/@npub1wd4vxl49vrsfrdaaskxg903ly5k0qfxef4tee4da59ppxj47ktqsa6kt98) `npub1wd4vxl49vrsfrdaaskxg903ly5k0qfxef4tee4da59ppxj47ktqsa6kt98` `TheAtlantic_at_press.coop@mostr.pub`
@@ -33,9 +35,13 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 - [CoinDesk](https://satellite.earth/@npub1x36ywys202q3y0cnrt8aj9cgm54ctt9qu6scv37xe254j98y2umquhlsth) `npub1x36ywys202q3y0cnrt8aj9cgm54ctt9qu6scv37xe254j98y2umquhlsth`
 
+- [Colossal](https://satellite.earth/@npub1nzhn34f3l62mwe9yv8pp43zzne5pxsq9kkwk64xzjqfw6srq36ysmaq9hq) `npub1nzhn34f3l62mwe9yv8pp43zzne5pxsq9kkwk64xzjqfw6srq36ysmaq9hq`
+
 ### E
 
 - [Engadget](https://satellite.earth/@npub1zygw2uzcnpy8gp9qfjfrgjc292k0vwwe709ren726v9fspf49vds28m36h) `npub1zygw2uzcnpy8gp9qfjfrgjc292k0vwwe709ren726v9fspf49vds28m36h`
+
+- [ESPN](https://satellite.earth/@npub1zy0qh4vy46r77pdn2454gdws40xhvxzc69dmnuc5yjekkaw0ytgsuw7hde) `npub1zy0qh4vy46r77pdn2454gdws40xhvxzc69dmnuc5yjekkaw0ytgsuw7hde`
 
 - [European central bank](https://satellite.earth/@npub1rtdc05xzd4r9g3tjeyv30akuw5g3349hc3k2kqz62uwrfc0tqjqsw5y53w) `npub1rtdc05xzd4r9g3tjeyv30akuw5g3349hc3k2kqz62uwrfc0tqjqsw5y53w` `ecb@nostr.sc`
 
@@ -44,6 +50,8 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 - [FDIC press releases](https://satellite.earth/@npub1w9q6gmf0aelgfshj2r859wc8ucwkjkdgm7c4z5krlfxdcafz88wslj460y) `npub1w9q6gmf0aelgfshj2r859wc8ucwkjkdgm7c4z5krlfxdcafz88wslj460y`
 
 - [Forbes](https://satellite.earth/@npub1uxdt5d22cp3z5ncrjun34darpqttqmwwqn49r837hvamdmpgxjrqw57fd5) `npub1uxdt5d22cp3z5ncrjun34darpqttqmwwqn49r837hvamdmpgxjrqw57fd5` `Forbes_at_press.coop@mostr.pub`
+
+- [Fortune](https://satellite.earth/@npub1zy2ent5mwdft3lw3lc4x5wdn5uc3dml25209nremv4g3kcwk3k7sw26tfz) `npub1zy2ent5mwdft3lw3lc4x5wdn5uc3dml25209nremv4g3kcwk3k7sw26tfz`
 
 - [Freedom of the press](https://satellite.earth/@npub1qq6mp5unp20kek9asxchnnwm6czzpz8zm57r4ftaxnfhz8zxpuhqkp7n8w) `npub1qq6mp5unp20kek9asxchnnwm6czzpz8zm57r4ftaxnfhz8zxpuhqkp7n8w` `freedomofpress_at_newsie.social@mostr.pub`
 
@@ -59,6 +67,8 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 ### I
 
+- [IGN](https://satellite.earth/@npub1zyty0tpx8m95qlcerh4xchw80mpzexf8fk52zz3vd9xkjewsxsss9dnmtl) `npub1zyty0tpx8m95qlcerh4xchw80mpzexf8fk52zz3vd9xkjewsxsss9dnmtl`
+
 - [The Independent](https://satellite.earth/@npub18zzzqjrw2kp466uamklmw7ds2d3urt6mr86z5zxx2ct6lqnyfl2qr2lmfc) `npub18zzzqjrw2kp466uamklmw7ds2d3urt6mr86z5zxx2ct6lqnyfl2qr2lmfc`
 
 ### J
@@ -67,11 +77,15 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 ### L
 
+- [Lifehacker](https://satellite.earth/@npub1zy0uv7qra5950lvxlztysqlu3gp0xk4ekypyjsajv06pxxta437qeqq9dx) `npub1zy0uv7qra5950lvxlztysqlu3gp0xk4ekypyjsajv06pxxta437qeqq9dx`
+
 - [Los Angeles Times](https://satellite.earth/@npub1r4mksmtehpxnv5088cv4j6uh66zx8jqkmapdkezetnsv6yspr4lquwzv8w) `npub1r4mksmtehpxnv5088cv4j6uh66zx8jqkmapdkezetnsv6yspr4lquwzv8w` `latimes_at_press.coop@mostr.pub`
 
 ### M
 
 - [MacRumors](https://satellite.earth/@npub1zywesxcqdhweaurfwgnp5n0qkqa9ueypv4c4tkqcvzp7nvjghgtskhpp3a) `npub1zywesxcqdhweaurfwgnp5n0qkqa9ueypv4c4tkqcvzp7nvjghgtskhpp3a`
+
+- [Mashable](https://satellite.earth/@npub1kkmye4flzg666g87467rq8zmagnd00ldn97ek7fkq8pv7ay3zaxscaz5n5) `npub1kkmye4flzg666g87467rq8zmagnd00ldn97ek7fkq8pv7ay3zaxscaz5n5` `mashable@nostr.sc`
 
 - [MIT technology review](https://satellite.earth/@npub1zyttfjek20rr033mycsvd3v7rchy6aw097lqpcay9dxr5kwgr7dsu7xtz3) `npub1zyttfjek20rr033mycsvd3v7rchy6aw097lqpcay9dxr5kwgr7dsu7xtz3`
 
@@ -97,6 +111,11 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 - [NPR](https://satellite.earth/@npub12ezaj0ehdzzvcq6tt2wzkw7620camr09uatm48rc9nlq9ahpxuaql07dww) `npub12ezaj0ehdzzvcq6tt2wzkw7620camr09uatm48rc9nlq9ahpxuaql07dww` `NPR_at_press.coop@mostr.pub`
 
+### P
+
+- [Pitchfork](https://satellite.earth/@npub1zygkq3hpw3u8a5pnlnfy5syvvnluu6606yl5v5ygda4jg7la59rqe330ur) `npub1zygkq3hpw3u8a5pnlnfy5syvvnluu6606yl5v5ygda4jg7la59rqe330ur`
+
+
 ### R
 
 - [Reuters](https://satellite.earth/@npub13dmtardpgeyvtzvqu4wq472rfggrrduuydgktczguhy2slygv8fquj0zvf) `npub13dmtardpgeyvtzvqu4wq472rfggrrduuydgktczguhy2slygv8fquj0zvf`
@@ -107,7 +126,11 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 - [Science magazine](https://satellite.earth/@npub1tv7rxscvfeexckfppja8yw70nqkg6z7vra7cpa5d2q34xf8wcpss75t2yq) `npub1tv7rxscvfeexckfppja8yw70nqkg6z7vra7cpa5d2q34xf8wcpss75t2yq` `ScienceMagazine_at_press.coop@mostr.pub`
 
+- [Scientific american](https://satellite.earth/@npub1zyfv44hl4kezcn2st6de75ejypfwqk5rfq3vlymgm365e2au0w5spdg837) `npub1zyfv44hl4kezcn2st6de75ejypfwqk5rfq3vlymgm365e2au0w5spdg837`
+
 - [Slashdot](https://satellite.earth/@npub1t0xdyrhn0k6yhf7wfe6mx5nf6mfwlz8hl8zww4wvn5y93gfdgdaq4s3j5l) `npub1t0xdyrhn0k6yhf7wfe6mx5nf6mfwlz8hl8zww4wvn5y93gfdgdaq4s3j5l`
+
+- [Steam](https://satellite.earth/@npub1zydp4eg20cc2gegjdv9tzrp743ka4g7v5qt2gyt5wrn8zk3dlhhsst0rmw) - the ultimate online game platform. Unofficial RSS feed `npub1zydp4eg20cc2gegjdv9tzrp743ka4g7v5qt2gyt5wrn8zk3dlhhsst0rmw`
 
 ### T
 
@@ -131,6 +154,10 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 
 - [Wired](https://satellite.earth/@npub1p9emea005pm6hy7dptvrgnquu7kuwus46llcaln697wvwx3y442qkcwque) `npub1p9emea005pm6hy7dptvrgnquu7kuwus46llcaln697wvwx3y442qkcwque` `wired@nostr.sc`
 
+- [Wired AI](https://satellite.earth/@npub1zyvfp7h904d2pgnjccsqxyvzymfk36789wy8k8kgk9s9t48tjx8stmxmek) `npub1zyvfp7h904d2pgnjccsqxyvzymfk36789wy8k8kgk9s9t48tjx8stmxmek`
+
+- [Wired science](https://satellite.earth/@npub1zywdq2gz605ynww08pu7lt7l63v8mz63ks3ptkd7arrczcrevjqqsvstyw) `npub1zywdq2gz605ynww08pu7lt7l63v8mz63ks3ptkd7arrczcrevjqqsvstyw`
+
 - [World news bot](https://satellite.earth/@npub17f8pn44vru6c0zwgh4hus2u6gdepdkagakp60wtxhn6ts5htxz7q3t2slx) - Bot that posts world news from the BBC, The Guardian, Der Spiegel, Aljazeera, CS Monitor, NPR, NYT, Korea Times, and South China Morning Post `npub17f8pn44vru6c0zwgh4hus2u6gdepdkagakp60wtxhn6ts5htxz7q3t2slx` `NewsBot_at_assortedflotsam.com@mostr.pub`
 
 ### X
@@ -140,6 +167,12 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 ### Z
 
 - [ZeroHedge news](https://satellite.earth/@npub19f00c07knhkh57z0d5t47wyn876h4atuc22x96gtt6tr6w73jm3qyv99q2) `npub19f00c07knhkh57z0d5t47wyn876h4atuc22x96gtt6tr6w73jm3qyv99q2`
+
+### Others
+
+- [Minimalist baker](https://satellite.earth/@npub1zywez9up9mdhtmvjevjhzwtge8kmgh05enx55q06ful4sk6n5phqmvxhud) - Simple recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes. RSS Feed. `npub1zywez9up9mdhtmvjevjhzwtge8kmgh05enx55q06ful4sk6n5phqmvxhud`
+
+- - [UX movement](https://satellite.earth/@npub1zyfxgz2kxdsfusjhyn5wnrscm52zpqx08angmhksjgvpx3ssfanqadp9rd) - Helping designers and developers build human-friendly interfaces. RSS Feed. `npub1zyfxgz2kxdsfusjhyn5wnrscm52zpqx08angmhksjgvpx3ssfanqadp9rd`
 
 ### Resources
 - [Press.coop](https://press.coop/directory)
