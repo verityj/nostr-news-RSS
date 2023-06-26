@@ -4,12 +4,13 @@ A list of RSS aggregators for the press sites that we can follow on Nostr
 ### A
 
 - [ABC World news tonight](https://satellite.earth/@npub1sp7wckf664f8rqv3mtee4cuwj5xahyfhx0nfaqs4zjlhlh7rgfhq20z0au) 
-  `npub1sp7wckf664f8rqv3mtee4cuwj5xahyfhx0nfaqs4zjlhlh7rgfhq20z0au` 
-  `ABCWorldNews_at_press.coop@mostr.pub`
-
+    - `npub1sp7wckf664f8rqv3mtee4cuwj5xahyfhx0nfaqs4zjlhlh7rgfhq20z0au` 
+    - `ABCWorldNews_at_press.coop@mostr.pub`
 
 - [Al Jazeera](https://satellite.earth/@npub1s2kdugenpwywdqc3g63h8mhzw9k90he7qp2v2xr3d85jacygqysq880sad) - English `npub1s2kdugenpwywdqc3g63h8mhzw9k90he7qp2v2xr3d85jacygqysq880sad` `AJEnglish_at_press.coop@mostr.pub`
+
 - [The Associated Press](https://satellite.earth/@npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc) `npub1c3kfjw40pznhlya26qku6j5ll86gezstzhufeyf2dyhge2w0nz2quuq2dc` `AP_at_press.coop@mostr.pub`
+
 - [The Atlantic](https://satellite.earth/@npub1wd4vxl49vrsfrdaaskxg903ly5k0qfxef4tee4da59ppxj47ktqsa6kt98) `npub1wd4vxl49vrsfrdaaskxg903ly5k0qfxef4tee4da59ppxj47ktqsa6kt98` `TheAtlantic_at_press.coop@mostr.pub`
 
 ### B
