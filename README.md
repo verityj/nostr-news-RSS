@@ -1,4 +1,4 @@
-## nostr-news-feeds
+## nostr news RSS
 A list of RSS aggregators for the press sites that we can follow on Nostr 
 
 ### A
