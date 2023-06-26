@@ -1,13 +1,11 @@
 # nostr-news-feeds
 A list of RSS aggregators for the press sites on Nostr
 
-## My awesome list
-
-- **B.** Second option with bold.
-- A. First option.
-
-
-
+<ol style="list-style-type: upper-alpha">
+<li>the letter C</li>
+<li>the letter A</li>
+<li>a</li>
+</ol>
 
 - [Washington Post]()
 - [Reuters]()
